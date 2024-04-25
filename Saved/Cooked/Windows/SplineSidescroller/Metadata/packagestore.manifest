@@ -361,6 +361,14 @@
 			"ChunkId": "4eefe050ec0582d800000001"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
+			"ChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
 			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
 			"ChunkId": "cbab6b01dd8b7ffe00000001"
 		},
@@ -785,6 +793,10 @@
 			"ChunkId": "4762b775bfe4b22d00000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset",
+			"ChunkId": "f0bdde7a2df6543900000001"
+		},
+		{
 			"Path": "Engine/Content/Maps/Entry.umap",
 			"ChunkId": "d31cf458faf4915200000001"
 		},
@@ -801,6 +813,14 @@
 			"ChunkId": "f8e206283906657a00000001"
 		},
 		{
+			"Path": "Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
+			"ChunkId": "15d0ea2c4d43c43c00000001"
+		},
+		{
+			"Path": "Engine/Content/MapTemplates/SM_Template_Map_Floor.ubulk",
+			"ChunkId": "15d0ea2c4d43c43c00000002"
+		},
+		{
 			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
 			"ChunkId": "37cdeb5ce1d3ccd800000001"
 		},
@@ -811,6 +831,26 @@
 		{
 			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
 			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+			"ChunkId": "801dc51816054cd400000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset",
+			"ChunkId": "1a175ae23ad6d41400000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+			"ChunkId": "ab6e8d7a46c9d53c00000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
+			"ChunkId": "eb26c788a1a10ea100000001"
+		},
+		{
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
+			"ChunkId": "eb26c788a1a10ea100000002"
 		},
 		{
 			"Path": "Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset",
@@ -1437,6 +1477,10 @@
 			"ChunkId": "f1ebd6418dba317a00000001"
 		},
 		{
+			"Path": "SplineSidescroller/Content/AAATextures/Colors/3DTextColor.uasset",
+			"ChunkId": "a4a37240ac88366600000001"
+		},
+		{
 			"Path": "SplineSidescroller/Content/AAATextures/Colors/AAABasicColor.uasset",
 			"ChunkId": "2b7101b10004c1ba00000001"
 		},
@@ -1541,6 +1585,10 @@
 			"ChunkId": "bcc41f237d5e199d00000001"
 		},
 		{
+			"Path": "SplineSidescroller/Content/Blueprints/Attacks/PlayerMeleeAttack.uasset",
+			"ChunkId": "b87df11b214ed8b100000001"
+		},
+		{
 			"Path": "SplineSidescroller/Content/Blueprints/Direction.uasset",
 			"ChunkId": "9b285b244d49180400000001"
 		},
@@ -1565,8 +1613,16 @@
 			"ChunkId": "444d0667ca6ae3bd00000001"
 		},
 		{
+			"Path": "SplineSidescroller/Content/Blueprints/GameManagement/GameManager.uasset",
+			"ChunkId": "ab626073e3b2001000000001"
+		},
+		{
 			"Path": "SplineSidescroller/Content/Blueprints/GameManagement/SidescrollGameMode.uasset",
 			"ChunkId": "493ccb67a15bc4f100000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/GameManagement/SplineGameInstance.uasset",
+			"ChunkId": "b495a6e377dd918a00000001"
 		},
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/HUD/CenterTest.uasset",
@@ -1579,6 +1635,18 @@
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/HUD/Player/PlayerHUD_DashSingle.uasset",
 			"ChunkId": "1f7ad7de8055b55000000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/Items/ItemAbstract.uasset",
+			"ChunkId": "c10c00fb71ec889500000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/Items/ItemCoin.uasset",
+			"ChunkId": "261085a8eff57f7100000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/Items/ItemWeapon.uasset",
+			"ChunkId": "b29d4c2377d5390600000001"
 		},
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/Mechanics/Basictrigger.uasset",
@@ -1605,6 +1673,14 @@
 			"ChunkId": "8e20c089e11fbfb600000001"
 		},
 		{
+			"Path": "SplineSidescroller/Content/Blueprints/Mechanics/LockedGate.uasset",
+			"ChunkId": "f828f43d892257c700000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/Mechanics/MeleeSwitch.uasset",
+			"ChunkId": "c1effc4be39b38cc00000001"
+		},
+		{
 			"Path": "SplineSidescroller/Content/Blueprints/Mechanics/SplineInfo.uasset",
 			"ChunkId": "8562373e2e9b930d00000001"
 		},
@@ -1619,10 +1695,6 @@
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/obstacles/BasicMovingPlatform.uasset",
 			"ChunkId": "0dab59d45357774e00000001"
-		},
-		{
-			"Path": "SplineSidescroller/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-			"ChunkId": "0ab5ce0449d6522500000001"
 		},
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/Player/Camera/CameraOverrideTrigger.uasset",
@@ -1675,6 +1747,10 @@
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/Player/PlayerWeapons.uasset",
 			"ChunkId": "b523ff107f9b748d00000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Blueprints/Player/SplinescrollerCharacter.uasset",
+			"ChunkId": "08411d764ac477c400000001"
 		},
 		{
 			"Path": "SplineSidescroller/Content/Blueprints/SplineStuff/CameraRotateToggle.uasset",
@@ -2001,6 +2077,14 @@
 			"ChunkId": "552335de4e5a36f200000001"
 		},
 		{
+			"Path": "SplineSidescroller/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+			"ChunkId": "9fe46510b72904d400000001"
+		},
+		{
+			"Path": "SplineSidescroller/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk",
+			"ChunkId": "9fe46510b72904d400000002"
+		},
+		{
 			"Path": "SplineSidescroller/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
 			"ChunkId": "b95f6a3e5f5a318300000001"
 		},
@@ -2031,6 +2115,10 @@
 		{
 			"Path": "SplineSidescroller/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
 			"ChunkId": "4fec0163af43e6cc00000002"
+		},
+		{
+			"Path": "SplineSidescroller/Content/Levels/ExampleLevel.umap",
+			"ChunkId": "2b50823509899b5000000001"
 		},
 		{
 			"Path": "SplineSidescroller/Content/ThirdPerson/Maps/_GENERATED/guypa/Stairs_A64D535E.uasset",
@@ -3056,6 +3144,18 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"ExportBundleChunkIds": [
+				"34b40296d0d3844e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
+			"ExportBundleChunkIds": [
+				"b1dd9666d4d25cf600000001"
+			]
+		},
+		{
 			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
 			"ExportBundleChunkIds": [
 				"cbab6b01dd8b7ffe00000001"
@@ -3653,6 +3753,12 @@
 			]
 		},
 		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay",
+			"ExportBundleChunkIds": [
+				"f0bdde7a2df6543900000001"
+			]
+		},
+		{
 			"Name": "/Engine/Maps/Entry",
 			"ExportBundleChunkIds": [
 				"d31cf458faf4915200000001"
@@ -3677,6 +3783,15 @@
 			]
 		},
 		{
+			"Name": "/Engine/MapTemplates/SM_Template_Map_Floor",
+			"ExportBundleChunkIds": [
+				"15d0ea2c4d43c43c00000001"
+			],
+			"BulkDataChunkIds": [
+				"15d0ea2c4d43c43c00000002"
+			]
+		},
+		{
 			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
 			"ExportBundleChunkIds": [
 				"37cdeb5ce1d3ccd800000001"
@@ -3692,6 +3807,33 @@
 			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
 			"ExportBundleChunkIds": [
 				"2a8ace463a029fae00000001"
+			]
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid",
+			"ExportBundleChunkIds": [
+				"801dc51816054cd400000001"
+			]
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid",
+			"ExportBundleChunkIds": [
+				"1a175ae23ad6d41400000001"
+			]
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid",
+			"ExportBundleChunkIds": [
+				"ab6e8d7a46c9d53c00000001"
+			]
+		},
+		{
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
+			"ExportBundleChunkIds": [
+				"eb26c788a1a10ea100000001"
+			],
+			"BulkDataChunkIds": [
+				"eb26c788a1a10ea100000002"
 			]
 		},
 		{
@@ -3767,6 +3909,12 @@
 			"Name": "/Engine/VREditor/TransformGizmo/Xray",
 			"ExportBundleChunkIds": [
 				"b0afffa81f17b5cc00000001"
+			]
+		},
+		{
+			"Name": "/Game/AAATextures/Colors/3DTextColor",
+			"ExportBundleChunkIds": [
+				"a4a37240ac88366600000001"
 			]
 		},
 		{
@@ -3914,6 +4062,12 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/Attacks/PlayerMeleeAttack",
+			"ExportBundleChunkIds": [
+				"b87df11b214ed8b100000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/Direction",
 			"ExportBundleChunkIds": [
 				"9b285b244d49180400000001"
@@ -3950,9 +4104,21 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/GameManagement/GameManager",
+			"ExportBundleChunkIds": [
+				"ab626073e3b2001000000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/GameManagement/SidescrollGameMode",
 			"ExportBundleChunkIds": [
 				"493ccb67a15bc4f100000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/GameManagement/SplineGameInstance",
+			"ExportBundleChunkIds": [
+				"b495a6e377dd918a00000001"
 			]
 		},
 		{
@@ -3971,6 +4137,24 @@
 			"Name": "/Game/Blueprints/HUD/Player/PlayerHUD_DashSingle",
 			"ExportBundleChunkIds": [
 				"1f7ad7de8055b55000000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Items/ItemAbstract",
+			"ExportBundleChunkIds": [
+				"c10c00fb71ec889500000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Items/ItemCoin",
+			"ExportBundleChunkIds": [
+				"261085a8eff57f7100000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Items/ItemWeapon",
+			"ExportBundleChunkIds": [
+				"b29d4c2377d5390600000001"
 			]
 		},
 		{
@@ -4010,6 +4194,18 @@
 			]
 		},
 		{
+			"Name": "/Game/Blueprints/Mechanics/LockedGate",
+			"ExportBundleChunkIds": [
+				"f828f43d892257c700000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Mechanics/MeleeSwitch",
+			"ExportBundleChunkIds": [
+				"c1effc4be39b38cc00000001"
+			]
+		},
+		{
 			"Name": "/Game/Blueprints/Mechanics/SplineInfo",
 			"ExportBundleChunkIds": [
 				"8562373e2e9b930d00000001"
@@ -4031,12 +4227,6 @@
 			"Name": "/Game/Blueprints/obstacles/BasicMovingPlatform",
 			"ExportBundleChunkIds": [
 				"0dab59d45357774e00000001"
-			]
-		},
-		{
-			"Name": "/Game/Blueprints/Player/BP_ThirdPersonCharacter",
-			"ExportBundleChunkIds": [
-				"0ab5ce0449d6522500000001"
 			]
 		},
 		{
@@ -4115,6 +4305,12 @@
 			"Name": "/Game/Blueprints/Player/PlayerWeapons",
 			"ExportBundleChunkIds": [
 				"b523ff107f9b748d00000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Player/SplinescrollerCharacter",
+			"ExportBundleChunkIds": [
+				"08411d764ac477c400000001"
 			]
 		},
 		{
@@ -4541,6 +4737,15 @@
 			]
 		},
 		{
+			"Name": "/Game/LevelPrototyping/Meshes/SM_ChamferCube",
+			"ExportBundleChunkIds": [
+				"9fe46510b72904d400000001"
+			],
+			"BulkDataChunkIds": [
+				"9fe46510b72904d400000002"
+			]
+		},
+		{
 			"Name": "/Game/LevelPrototyping/Meshes/SM_Cube",
 			"ExportBundleChunkIds": [
 				"b95f6a3e5f5a318300000001"
@@ -4574,6 +4779,12 @@
 			],
 			"BulkDataChunkIds": [
 				"4fec0163af43e6cc00000002"
+			]
+		},
+		{
+			"Name": "/Game/Levels/ExampleLevel",
+			"ExportBundleChunkIds": [
+				"2b50823509899b5000000001"
 			]
 		},
 		{
